@@ -1,5 +1,8 @@
 # Spoofer-Fivem
 user : root
+
+
+
 password : chark666
 
 I stop the project, i don't give any help for the source.
